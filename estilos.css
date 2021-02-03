@@ -1,5 +1,8 @@
-p{
+.parrafo{
     font-size:22px;
-    color:#9965C1;
-    font-family:"MingLiU_HKSCS-ExtB";
+    color:lightseagreen;
+    font-family:"DancingScript",cursive;
+}
+.fondo{
+    background-color: rgba(217, 161, 231, 0.945);
 }
