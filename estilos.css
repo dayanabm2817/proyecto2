@@ -1,8 +1,16 @@
 .parrafo{
     font-size:22px;
-    color:lightseagreen;
-    font-family:"DancingScript",cursive;
+   font-family:  "DancingScript",cursive;
+   color: slateblue
+}
+
+.subtitulo{
+    font-size:25px;
+    Font-weight: bold;
+    color: slateblue
 }
 .fondo{
-    background-color: rgba(217, 161, 231, 0.945);
+    background-color:khaki
 }
+
+
